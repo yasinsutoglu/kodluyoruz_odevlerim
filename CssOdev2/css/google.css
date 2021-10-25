@@ -1,0 +1,56 @@
+
+.butun{
+    text-align: center;
+    width: 1000px;
+    height: 600px;
+    margin:20px auto 20px;
+}
+
+.gorsel{
+    width:900px ;
+    margin:auto;
+}
+
+.ustbolme{
+    background-color: rgb(201, 198, 198);
+    margin:0px 50px 0px;    
+}
+
+.content{
+    width:900px;
+    margin:0px 50px; 
+}
+
+.card{
+    text-align: center;
+    background-color: turquoise;
+    height: 100px;
+    
+    float:left;
+}
+
+.card1{
+   width:300px;
+   margin:3px 1.5px 0px 0px;
+   height: 100px;
+}
+
+.card2{
+    margin:3px 1.5px 0px 1.5px;
+    padding-top:auto;
+    padding-bottom: auto;
+   width:200px;
+   height: 100px;
+}
+.card3{
+    margin:3px 0px 0px 1.5px;
+    width: 394px;
+    padding-top:auto;
+    padding-bottom: auto;
+
+}
+
+.sonyazi{
+margin-top: auto;
+text-align: center;
+}
